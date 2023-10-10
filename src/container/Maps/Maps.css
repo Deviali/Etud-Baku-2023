@@ -1,0 +1,28 @@
+.map{
+    margin: 41vh 1rem 0 0;
+    height: 40vh;
+    width: 100vw;
+}
+.map-container{
+    height: 100%;
+    width: 100%;
+
+}
+.error{
+    margin-top: 40vh;
+}
+
+@media screen and (max-width: 2000px) {
+    
+  }
+  @media screen and (max-width: 1100px) {
+   .map{
+    width: 100%;
+    margin-top: 50vh;
+    margin-right: 1rem;
+   }
+  }
+  @media screen and (max-width: 650px) {
+    
+  }
+  

@@ -1,0 +1,56 @@
+.whatson-container{
+    margin: 4rem 10vw;
+}
+.whatson-line{
+    width: 100%;
+  margin-top: 50px;
+  border: 0.5px solid rgb(202, 202, 202);
+}
+.whatson-container h1{
+    font-size: 50px;
+    margin: 5rem 0;
+}
+
+.whatson-text{
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+}
+.whatson-text .p_syne {
+    font-size: 30px;
+}
+.whatson-text .p_avenir {
+    color: gray;
+}
+.whatson-box img{
+    height: 500px;
+    width: 750px;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 2000px) {
+}
+@media screen and (max-width: 1100px) {
+    .whatson-box{
+        flex-direction: column;
+    }
+    .whatson-container{
+        padding-top: 10rem;
+    }
+    .whatson-box img{
+        width: 100%;
+        height: 300px;
+        object-fit: contain;
+    }
+    .whatson-text{
+        width: 100%;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 650px) {
+}
+
+
+
+
