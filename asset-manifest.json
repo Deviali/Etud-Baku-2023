@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Deviali/Etud-Baku-2023.git/static/css/main.a697a235.css",
-    "main.js": "/Deviali/Etud-Baku-2023.git/static/js/main.8f96b6b4.js",
+    "main.js": "/Deviali/Etud-Baku-2023.git/static/js/main.42bb44f9.js",
     "static/media/special01.jpg": "/Deviali/Etud-Baku-2023.git/static/media/special01.61707c8ce7e4e70b7989.jpg",
     "static/media/bar-filler02.jpg": "/Deviali/Etud-Baku-2023.git/static/media/bar-filler02.c82d8b2a9cb6ea8a414f.jpg",
     "static/media/bg-etud-cocktail.jpg": "/Deviali/Etud-Baku-2023.git/static/media/bg-etud-cocktail.361531362e03a2a05b68.jpg",
@@ -16,10 +16,10 @@
     "static/media/fira.jpg": "/Deviali/Etud-Baku-2023.git/static/media/fira.1222ee982679554a5e60.jpg",
     "index.html": "/Deviali/Etud-Baku-2023.git/index.html",
     "main.a697a235.css.map": "/Deviali/Etud-Baku-2023.git/static/css/main.a697a235.css.map",
-    "main.8f96b6b4.js.map": "/Deviali/Etud-Baku-2023.git/static/js/main.8f96b6b4.js.map"
+    "main.42bb44f9.js.map": "/Deviali/Etud-Baku-2023.git/static/js/main.42bb44f9.js.map"
   },
   "entrypoints": [
     "static/css/main.a697a235.css",
-    "static/js/main.8f96b6b4.js"
+    "static/js/main.42bb44f9.js"
   ]
 }
