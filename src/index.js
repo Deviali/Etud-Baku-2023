@@ -4,26 +4,30 @@ import './index.css';
 import {
     createBrowserRouter,
     RouterProvider,
+    createHashRouter,
+    HashRouter ,
     Route,
-    HashRouter,
   } from "react-router-dom";
 import App from './App';
 import Artists from "./pages/Artists/Artists";
 
+// const router = createBrowserRouter([
+
+
 const router = createBrowserRouter([
     {
-      path: "/",
+      path: "Etud-Baku-2023/",
       element: <App />,
     },
     {
-        path: "/artists",
+        path: "Etud-Baku-2023/artists",
         element: <Artists />,
       },
   ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <HashRouter>
-    <RouterProvider router={router} />
-  </HashRouter>
+  <RouterProvider router={router} />
+
+    
 );
