@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Deviali/Etud-Baku-2023.git/static/css/main.a697a235.css",
-    "main.js": "/Deviali/Etud-Baku-2023.git/static/js/main.42bb44f9.js",
-    "static/media/special01.jpg": "/Deviali/Etud-Baku-2023.git/static/media/special01.61707c8ce7e4e70b7989.jpg",
-    "static/media/bar-filler02.jpg": "/Deviali/Etud-Baku-2023.git/static/media/bar-filler02.c82d8b2a9cb6ea8a414f.jpg",
-    "static/media/bg-etud-cocktail.jpg": "/Deviali/Etud-Baku-2023.git/static/media/bg-etud-cocktail.361531362e03a2a05b68.jpg",
-    "static/media/bar-filler04.jpg": "/Deviali/Etud-Baku-2023.git/static/media/bar-filler04.19c1b7ada8f1a7d69bed.jpg",
-    "static/media/bar-filler01.jpg": "/Deviali/Etud-Baku-2023.git/static/media/bar-filler01.d8771dfc48116a897357.jpg",
-    "static/media/special02.jpeg": "/Deviali/Etud-Baku-2023.git/static/media/special02.1a641db25c4907bb3d1e.jpeg",
-    "static/media/bar-filler03.jpg": "/Deviali/Etud-Baku-2023.git/static/media/bar-filler03.f6c0c11ece3c75677ad5.jpg",
-    "static/media/bar-filler07.jpg": "/Deviali/Etud-Baku-2023.git/static/media/bar-filler07.d529a79f5512d049c95f.jpg",
-    "static/media/bar-filler06.jpg": "/Deviali/Etud-Baku-2023.git/static/media/bar-filler06.89c6f9ee8a1875aaf3b2.jpg",
-    "static/media/bar-filler05.jpg": "/Deviali/Etud-Baku-2023.git/static/media/bar-filler05.11d77e73abefa7c0ba18.jpg",
-    "static/media/nicat-aslanov.jpg": "/Deviali/Etud-Baku-2023.git/static/media/nicat-aslanov.1ccece3f4bd57795e961.jpg",
-    "static/media/fira.jpg": "/Deviali/Etud-Baku-2023.git/static/media/fira.1222ee982679554a5e60.jpg",
-    "index.html": "/Deviali/Etud-Baku-2023.git/index.html",
-    "main.a697a235.css.map": "/Deviali/Etud-Baku-2023.git/static/css/main.a697a235.css.map",
-    "main.42bb44f9.js.map": "/Deviali/Etud-Baku-2023.git/static/js/main.42bb44f9.js.map"
+    "main.css": "/Etud-Baku-2023/static/css/main.5bc79de6.css",
+    "main.js": "/Etud-Baku-2023/static/js/main.2639b8b3.js",
+    "static/media/special01.jpg": "/Etud-Baku-2023/static/media/special01.61707c8ce7e4e70b7989.jpg",
+    "static/media/bar-filler02.jpg": "/Etud-Baku-2023/static/media/bar-filler02.c82d8b2a9cb6ea8a414f.jpg",
+    "static/media/bg-etud-cocktail.jpg": "/Etud-Baku-2023/static/media/bg-etud-cocktail.361531362e03a2a05b68.jpg",
+    "static/media/bar-filler04.jpg": "/Etud-Baku-2023/static/media/bar-filler04.19c1b7ada8f1a7d69bed.jpg",
+    "static/media/bar-filler01.jpg": "/Etud-Baku-2023/static/media/bar-filler01.d8771dfc48116a897357.jpg",
+    "static/media/special02.jpeg": "/Etud-Baku-2023/static/media/special02.1a641db25c4907bb3d1e.jpeg",
+    "static/media/bar-filler03.jpg": "/Etud-Baku-2023/static/media/bar-filler03.f6c0c11ece3c75677ad5.jpg",
+    "static/media/bar-filler07.jpg": "/Etud-Baku-2023/static/media/bar-filler07.d529a79f5512d049c95f.jpg",
+    "static/media/bar-filler06.jpg": "/Etud-Baku-2023/static/media/bar-filler06.89c6f9ee8a1875aaf3b2.jpg",
+    "static/media/bar-filler05.jpg": "/Etud-Baku-2023/static/media/bar-filler05.11d77e73abefa7c0ba18.jpg",
+    "static/media/nicat-aslanov.jpg": "/Etud-Baku-2023/static/media/nicat-aslanov.1ccece3f4bd57795e961.jpg",
+    "static/media/fira.jpg": "/Etud-Baku-2023/static/media/fira.1222ee982679554a5e60.jpg",
+    "index.html": "/Etud-Baku-2023/index.html",
+    "main.5bc79de6.css.map": "/Etud-Baku-2023/static/css/main.5bc79de6.css.map",
+    "main.2639b8b3.js.map": "/Etud-Baku-2023/static/js/main.2639b8b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.a697a235.css",
-    "static/js/main.42bb44f9.js"
+    "static/css/main.5bc79de6.css",
+    "static/js/main.2639b8b3.js"
   ]
 }
