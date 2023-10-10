@@ -16,11 +16,11 @@ import Artists from "./pages/Artists/Artists";
 
 const router = createBrowserRouter([
     {
-      path: "Etud-Baku-2023/",
+      path: "/",
       element: <App />,
     },
     {
-        path: "Etud-Baku-2023/artists",
+        path: "/artists",
         element: <Artists />,
       },
   ]);
