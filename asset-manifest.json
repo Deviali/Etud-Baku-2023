@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Etud-Baku-2023/static/css/main.5bc79de6.css",
-    "main.js": "/Etud-Baku-2023/static/js/main.8e2bd18e.js",
+    "main.js": "/Etud-Baku-2023/static/js/main.5897e8ce.js",
     "static/media/special01.jpg": "/Etud-Baku-2023/static/media/special01.61707c8ce7e4e70b7989.jpg",
     "static/media/bar-filler02.jpg": "/Etud-Baku-2023/static/media/bar-filler02.c82d8b2a9cb6ea8a414f.jpg",
     "static/media/bg-etud-cocktail.jpg": "/Etud-Baku-2023/static/media/bg-etud-cocktail.361531362e03a2a05b68.jpg",
@@ -16,10 +16,10 @@
     "static/media/fira.jpg": "/Etud-Baku-2023/static/media/fira.1222ee982679554a5e60.jpg",
     "index.html": "/Etud-Baku-2023/index.html",
     "main.5bc79de6.css.map": "/Etud-Baku-2023/static/css/main.5bc79de6.css.map",
-    "main.8e2bd18e.js.map": "/Etud-Baku-2023/static/js/main.8e2bd18e.js.map"
+    "main.5897e8ce.js.map": "/Etud-Baku-2023/static/js/main.5897e8ce.js.map"
   },
   "entrypoints": [
     "static/css/main.5bc79de6.css",
-    "static/js/main.8e2bd18e.js"
+    "static/js/main.5897e8ce.js"
   ]
 }
