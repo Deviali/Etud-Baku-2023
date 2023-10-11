@@ -4,14 +4,11 @@ import './index.css';
 import {
     createBrowserRouter,
     RouterProvider,
-    createHashRouter,
-    HashRouter ,
     Route,
   } from "react-router-dom";
 import App from './App';
 import Artists from "./pages/Artists/Artists";
 
-// const router = createBrowserRouter([
 
 
 const router = createBrowserRouter([
